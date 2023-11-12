@@ -13,3 +13,4 @@ This is my second commit on the collaborative-branch
 This is my first commit on the pull-request-branch
 This is my second commit on the pull-request-branch.
 This is my third commit on the pull-request-branch.
+This is to solve the issue
